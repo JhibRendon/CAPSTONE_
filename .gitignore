@@ -1,0 +1,56 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies and build outputs
+node_modules
+dist
+dist-ssr
+.vite/
+vendor/
+
+# Local environment files
+.env
+.env.*
+*.local
+!.env.example
+!.env.*.example
+backend/config/iserve-buksu-chatbot-wvdy-*.json
+backend/config/iserve-buksu-chatbot-wvdy-*.json.backup
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS / Windows artifacts
+Thumbs.db
+nul
+
+# Lockfiles previously excluded in this repo
+package-lock.json
+composer.lock
+
+# Local AI model artifacts
+backend/models/academic_classifier/
+backend/models/urgency_classifier/
+backend/models/sentiment_classifier/
+backend/models/classifier/
+backend/models/sentiment/
+backend/models/summarizer/
+backend/models/urgency/
+backend/__pycache__/
+backend/models/__pycache__/
+temp_ai_input.txt
+*.safetensors
