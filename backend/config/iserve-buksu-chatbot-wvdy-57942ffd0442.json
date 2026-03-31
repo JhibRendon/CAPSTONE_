@@ -1,0 +1,14 @@
+
+{
+  "type": "service_account",
+  "project_id": "iserve-buksu-chatbot-wvdy",
+  "private_key_id": "57942ffd0442649cbec3f51a2eb9a63269eadee2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAf5dNUhlRkUUv\nJTAkcoJ5+NBmhCJdqL67QeB6PxyRCjxOcxEQKYvLb48TE6r8E1cVEH8Y7FlJhRgc\nSyzFz0GH54hyv2AvtNWmYNJzB+5ZO5vOFxdQZ/maKOc7qh3RSqkzx+FfjU7Bnsl7\niBh17S14Yh5UQLHLzrzBls0yZDGsJwHO7uGngNJlofmETv3MUzxFHkRDE2R1OPKG\naq3UDBdFA40byhT9xSXj0r3emSug4xlSJ18qAIvPxKO731ST/n9fnsQ0N68EPbMc\nGoHy4P7NYpQzwYwXAXmoT09UmNWiyHRbn+Znrae/cTUTXoDk+mdQsSwuMCc2O0RA\ntyJP64nnAgMBAAECggEADR9FfaBYmH5aJH4Y+4sQyObEshBU1WSg59v0RPETbfGw\nLbrbUWo7nNkUfDztfXSGDaoLt/O4nHHltFwNh8h6k5ydaRERqf7eR5K3Fd9XCJ8v\nHkvlq3YDBla+eIs+sBsyUJTSELTtxvYfjvu2iydpX5j0r1KfrCCCLoIsp8A7wJvj\nizgbi0FrILD3KVNmehXYxNNBTVwDclOA5oI/x5Ww6S32Aw6WtqirQORg8QeAo6k8\nXOeawSMRbaOUju+cxj2rnYql9Hed0BlNf3D0oED7TB/y4qPPa9viT5snt+jijwBz\n7nklqO30oHCyfb6r0FHbCv5eDy4RXu+D8GNoqkTToQKBgQD/kKWzias+TmW467CO\nzgCfM2AUgoYqNn9Z805mfBPELYvKK4xChSDwpJa339eUimWmgh8FFvBbjKJy2748\nP5POrOPeKUtJzA6X8JWX9v9G8rougWtLm0ylRbAKPAzvwHs8jPloaSpYxowH/+AO\nOXqZrTBk3SLTa9UwzcTY7KsKBwKBgQDA03cB26ba0yAus3YwkBxp3AUtZWwWyKfR\ntGxmaUbxtowtzplZCFW1UKzysHvfKlLtsLfybbnxtFWqhz4xWc5vEwp2smL3pPAf\n+C25WbzIm+0ERuIRK40NQj9/mSgUE5TSVAvwZQywRzz3wl9i8NrAJwvvbQIt082L\nEvHElBMJIQKBgGASw4gL3/lLRYhP6g61OJyglqT/MGqcFCH/imCSkme0a5Gz70Vu\ngKSWayZymrt3j6EZ14l1RyRTaRpeq1RA3lLawcrZoTj74hyST9pR+0NzqjQjaO+C\nUTzsRrKCQqa6qFlp8bSjnEzFTw0Ozu7qAsHUzpWMYDQ0nG99W1vlFKNvAoGBAKbE\nPOC2f5AxmFvLiiRl/qzvROsGFH1//OQ5Dqdj1Z+nKYVUcPu3Yaj2pR0f1YIksKQx\nemWI0JBiTtS1MuyrpwYZiasujLlxRNvhYGo1WjiF4m8YftwqtksJSLGqXCdA6C0f\n01ONkXPDqM7+pFCFzirxmjjwJjpMPDBTqhVBm1UBAoGABT2s/lu7PdDGX9XHjM0z\n6Dt+ayDL1Bpu5Y9Hi7TGAMts3YEhu2eSLhgZbg7/4PuzPA4iIm2X1+ZQhvOut1Nz\nu8XIf3slSHReNABxkvXC5GCfi5wTp1dRelym/bNyTh18FWSLvManopzdTX5v6ooF\nLdTFd3WbiXKYEQtgndpqwQA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-service@iserve-buksu-chatbot-wvdy.iam.gserviceaccount.com",
+  "client_id": "109122500861219320694",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-service%40iserve-buksu-chatbot-wvdy.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
